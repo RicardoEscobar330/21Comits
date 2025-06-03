@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola mundo, user1 definitive edition.
+=======
+hola mundo, user2 definitive edition.
+>>>>>>> develop
